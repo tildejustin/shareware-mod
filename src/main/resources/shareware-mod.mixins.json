@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.voidxwalker.autoreset.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "NetworkUtilsMixin",
+    "PlayerManagerMixin",
+    "SettingsScreenMixin",
+    "StructureManagerMixin",
+    "TitleScreenMixin"
+  ],
+  "client": [
+    "AbstactClientPlayerEntityMixin",
+    "BackgroundRendererMixin",
+    "DifficultyScreenMixin",
+    "KeyboardMixin",
+    "PauseMenuScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

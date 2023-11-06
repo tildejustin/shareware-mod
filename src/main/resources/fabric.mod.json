@@ -1,27 +1,20 @@
 {
   "schemaVersion": 1,
-  "id": "atum",
+  "id": "shareware-mod",
   "version": "${version}",
-  "name": "Atum",
-  "description": "Mod to automatically reset RSG and SSG",
+  "name": "3D Shareware Mod",
+  "description": "Atum + Legacy Debug Pause + Legacy Planar Fog + Voyager + Force Port + MotioNO",
   "authors": [
+    "tildejustin",
     "Void_X_Walker"
   ],
-
-  "license": "All-Rights-Reserved",
-  "icon": "assets/modid/icon.png",
-
+  "license": "MIT",
+  "icon": "assets/shareware-mod/icon.png",
   "environment": "*",
-  "entrypoints": {
-    "main": [
-      "me.voidxwalker.autoreset.Atum"
-    ]
-  },
   "mixins": [
-    "autoreset.mixins.json"
+    "shareware-mod.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.7.4",
-    "minecraft": "1.14.x"
+    "minecraft": "1.14-alpha.19.13.shareware"
   }
 }
