@@ -1,6 +1,6 @@
-package me.voidxwalker.autoreset.mixin;
+package dev.tildejustin.sharewaremod.mixin;
 
-import me.voidxwalker.autoreset.Atum;
+import dev.tildejustin.sharewaremod.Atum;
 import net.minecraft.client.gui.CloseWorldScreen;
 import net.minecraft.client.gui.Screen;
 import net.minecraft.client.gui.TitleScreen;

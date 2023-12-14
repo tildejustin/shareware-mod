@@ -1,4 +1,4 @@
-package me.voidxwalker.autoreset.mixin;
+package dev.tildejustin.sharewaremod.mixin;
 
 import net.minecraft.structure.Structure;
 import net.minecraft.structure.StructureManager;

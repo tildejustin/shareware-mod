@@ -1,4 +1,4 @@
-package me.voidxwalker.autoreset.mixin;
+package dev.tildejustin.sharewaremod.mixin;
 
 import net.minecraft.client.render.BackgroundRenderer;
 import org.spongepowered.asm.mixin.Mixin;

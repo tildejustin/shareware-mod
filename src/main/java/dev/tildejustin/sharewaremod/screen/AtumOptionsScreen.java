@@ -1,6 +1,6 @@
-package me.voidxwalker.autoreset.screen;
+package dev.tildejustin.sharewaremod.screen;
 
-import me.voidxwalker.autoreset.Atum;
+import dev.tildejustin.sharewaremod.Atum;
 import net.minecraft.client.gui.Screen;
 import net.minecraft.client.gui.widget.ButtonWidget;
 import net.minecraft.client.resource.language.I18n;

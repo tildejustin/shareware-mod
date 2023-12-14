@@ -1,4 +1,4 @@
-package me.voidxwalker.autoreset;
+package dev.tildejustin.sharewaremod;
 
 import net.fabricmc.loader.api.FabricLoader;
 import net.minecraft.world.Difficulty;

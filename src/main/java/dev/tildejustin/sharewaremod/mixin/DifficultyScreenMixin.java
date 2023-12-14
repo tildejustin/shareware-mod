@@ -1,7 +1,7 @@
-package me.voidxwalker.autoreset.mixin;
+package dev.tildejustin.sharewaremod.mixin;
 
-import me.voidxwalker.autoreset.Atum;
-import net.minecraft.DifficultyScreen;
+import dev.tildejustin.sharewaremod.Atum;
+import net.minecraft.client.gui.menu.DifficultyScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;

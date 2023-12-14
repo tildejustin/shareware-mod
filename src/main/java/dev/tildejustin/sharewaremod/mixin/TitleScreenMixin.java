@@ -1,10 +1,10 @@
-package me.voidxwalker.autoreset.mixin;
+package dev.tildejustin.sharewaremod.mixin;
 
-import me.voidxwalker.autoreset.Atum;
-import me.voidxwalker.autoreset.screen.AtumOptionsScreen;
-import net.minecraft.DifficultyScreen;
+import dev.tildejustin.sharewaremod.Atum;
+import dev.tildejustin.sharewaremod.screen.AtumOptionsScreen;
 import net.minecraft.client.gui.Screen;
 import net.minecraft.client.gui.TitleScreen;
+import net.minecraft.client.gui.menu.DifficultyScreen;
 import net.minecraft.client.gui.widget.ButtonWidget;
 import net.minecraft.text.TextComponent;
 import net.minecraft.util.Identifier;

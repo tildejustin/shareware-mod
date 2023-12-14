@@ -1,6 +1,6 @@
-package me.voidxwalker.autoreset.mixin;
+package dev.tildejustin.sharewaremod.mixin;
 
-import me.voidxwalker.autoreset.interfaces.IPauseMenuScreen;
+import dev.tildejustin.sharewaremod.interfaces.IPauseMenuScreen;
 import net.minecraft.client.gui.menu.PauseMenuScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Unique;
