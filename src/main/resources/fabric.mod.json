@@ -10,6 +10,11 @@
   ],
   "license": "MIT",
   "icon": "assets/shareware-mod/icon.png",
+  "contact": {
+    "homepage": "https://modrinth.com/mod/shareware-mod",
+    "sources": "https://github.com/tildejustin/shareware-mod",
+    "issues": "https://github.com/tildejustin/shareware-mod/issues"
+  },
   "environment": "*",
   "mixins": [
     "shareware-mod.mixins.json"
